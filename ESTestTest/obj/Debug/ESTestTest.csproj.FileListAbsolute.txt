@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\ESTestTest\ESTestTest\bin\Debug\ESTestTest.exe.config
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\ESTestTest\ESTestTest\bin\Debug\ESTestTest.exe.config
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\ESTestTest\ESTestTest\bin\Debug\ESTestTest.exe
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\ESTestTest\ESTestTest\bin\Debug\ESTestTest.pdb
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\ESTestTest\ESTestTest\obj\Debug\ESTestTest.Form1.resources
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\ESTestTest\ESTestTest\obj\Debug\ESTestTest.Properties.Resources.resources
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\ESTestTest\ESTestTest\obj\Debug\ESTestTest.csproj.GenerateResource.Cache
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\ESTestTest\ESTestTest\obj\Debug\ESTestTest.exe
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\ESTestTest\ESTestTest\obj\Debug\ESTestTest.pdb
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\ESTestTest\ESTestTest\obj\Debug\ESTestTest.csprojResolveAssemblyReference.cache
